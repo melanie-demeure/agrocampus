@@ -1,0 +1,511 @@
+[33mcommit dcc3491c53962c8cf61a5c44b3d510603320014f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Melanie Demeure <melanie.demeure5@gmail.com>
+Date:   Fri Sep 11 14:33:14 2020 +0200
+
+    Create the file touch.md
+
+[33mcommit ee9c94382bfa6c9d6480fc0c1ce312f5d5d2b0ee[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Fri Sep 11 12:04:18 2020 +0200
+
+    Update 01-jupyter.ipynb
+
+[33mcommit 616470c4f3ba216abc5d4a1fc6dc0254e4cf3fd1[m
+Author: Pierre Navaro <pierre.navaro@univ-rennes1.fr>
+Date:   Fri Sep 11 09:41:58 2020 +0200
+
+    Revert "Add today date in README"
+    
+    This reverts commit 9b5e6459440335496ff6e47537f2a21d6ac3cdf9.
+
+[33mcommit ff01b7301f868aa422d1ac40d4b4fcacf18a3cf9[m
+Author: Pierre Navaro <pierre.navaro@univ-rennes1.fr>
+Date:   Fri Sep 11 09:41:49 2020 +0200
+
+    Update 02-gitbasics.ipynb
+
+[33mcommit 9b5e6459440335496ff6e47537f2a21d6ac3cdf9[m
+Author: Pierre Navaro <pierre.navaro@univ-rennes1.fr>
+Date:   Fri Sep 11 09:16:05 2020 +0200
+
+    Add today date in README
+
+[33mcommit 58bbaa6afe2c5b2e9294ce5bb322c1fdcf978273[m
+Author: Pierre Navaro <pierre.navaro@univ-rennes1.fr>
+Date:   Thu Sep 10 22:31:13 2020 +0200
+
+    Update nbcourse.yml
+
+[33mcommit f2cd4154ad8cbfb37dc7beb319b3d5a1cfb1c207[m
+Author: Pierre Navaro <pierre.navaro@univ-rennes1.fr>
+Date:   Thu Sep 10 22:28:28 2020 +0200
+
+    Delete Dockerfile
+
+[33mcommit 27ce58d759cb2c136c8d07327a93ee3016716c2c[m
+Author: Pierre Navaro <pierre.navaro@univ-rennes1.fr>
+Date:   Thu Sep 10 22:26:07 2020 +0200
+
+    Improve git notebook
+
+[33mcommit 146748993c815f475ef30f30ca10f99127ee66e3[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Thu Sep 10 17:16:10 2020 +0200
+
+    Improve git notebook
+
+[33mcommit ba6bdd26cc8a9d0d6bc30d373d2b943578dbf3b4[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Wed Sep 9 22:41:20 2020 +0200
+
+    Add jupyterbook test
+
+[33mcommit a16afe6a2142da9c401cb906904518d459d9d28a[m
+Author: Pierre Navaro <pnavaro@users.noreply.github.com>
+Date:   Tue Sep 8 22:52:31 2020 +0200
+
+    Update README.md
+
+[33mcommit 3bcbb474d56fade590586b865c8da310e3936557[m
+Author: Pierre Navaro <pnavaro@users.noreply.github.com>
+Date:   Tue Sep 8 22:33:07 2020 +0200
+
+    Update nbcourse.yml
+
+[33mcommit d06b17c8dba3733b5479d02fe63babe744ba3e9c[m
+Author: Pierre Navaro <pnavaro@users.noreply.github.com>
+Date:   Tue Sep 8 22:31:29 2020 +0200
+
+    Update nbcourse.yml
+
+[33mcommit d8d094d0d77d7c3147961362aa0c062bd6e122eb[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Tue Sep 8 22:13:12 2020 +0200
+
+    Update nbcourse.yml
+
+[33mcommit d74a61ad14b6467e4f67f42d9cf23f2f9b3f5b79[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Tue Sep 8 21:45:11 2020 +0200
+
+    Update environment.yml
+
+[33mcommit a9a68de7af3d2ed23d584b4aeafb6ea0465fe38c[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Tue Sep 8 21:39:07 2020 +0200
+
+    Update environment.yml
+
+[33mcommit d86161a95397e15f14456aacf393dfa337dbb718[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Tue Sep 8 16:50:12 2020 +0200
+
+    Update 02-gitbasics.ipynb
+
+[33mcommit 9e3bfa52dd88416b984ea6fb4c72649571aaf857[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Tue Sep 8 16:12:45 2020 +0200
+
+    Update nbcourse.yml
+
+[33mcommit fb0877e79f4ab19996cf3785cd2bb8d2d6c9b77b[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Tue Sep 8 15:13:13 2020 +0200
+
+    Update nbcourse.yml
+
+[33mcommit 3749f5872b92c1560a87f62002d0196e594f9381[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Tue Sep 8 15:06:06 2020 +0200
+
+    Update nbcourse.yml
+
+[33mcommit 104420f18e47076494a538a640bedc3c223039b6[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Tue Sep 8 14:44:28 2020 +0200
+
+    Update nbcourse.yml
+
+[33mcommit ef86641bbf9f1a15587ff03cb770f94c5b8248be[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Tue Sep 8 14:44:26 2020 +0200
+
+    Update .gitignore
+
+[33mcommit 1e0c5853bbb8efe69b78c5427a04b910e7aba782[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Tue Sep 8 13:36:58 2020 +0200
+
+    Add github actions
+
+[33mcommit 17c323d4f55000453c4ff14f3d935141fb7bdaa0[m
+Author: Pierre Navaro <pierre.navaro@univ-rennes1.fr>
+Date:   Fri Aug 21 22:21:00 2020 +0200
+
+    Update 06-jupytext.ipynb
+
+[33mcommit 3890006325ebdaa9e0bbc9c7b7ef92e833f33236[m
+Author: Pierre Navaro <pierre.navaro@univ-rennes1.fr>
+Date:   Fri Aug 21 22:20:57 2020 +0200
+
+    Update 01-jupyter.ipynb
+
+[33mcommit 1bcd22814bcb12624df328d9944dd0b415761b12[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Fri Aug 21 19:08:02 2020 +0200
+
+    slides ON
+
+[33mcommit a254df424e5801783b7ec0b5496937436e7b5366[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Fri Aug 21 18:29:52 2020 +0200
+
+    Update 02-gitbasics.ipynb
+
+[33mcommit 6bfc0863832c690559172505e008bf18a261f0d8[m
+Author: Pierre Navaro <pierre.navaro@univ-rennes1.fr>
+Date:   Fri Aug 21 18:24:45 2020 +0200
+
+    Add README.md
+
+[33mcommit ff88814091cedbdfa8fb327c1db7775f10aab8e0[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Fri Aug 21 17:46:59 2020 +0200
+
+    fix slides for first notebook
+
+[33mcommit 2dea65d1e8b7aa2d3bc5d9574c59b157607987dd[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Fri Aug 21 16:54:25 2020 +0200
+
+    rename first notebook
+
+[33mcommit ba87412f7a1c738e82cbf289de065c557a1d9fe9[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Fri Aug 21 14:50:53 2020 +0200
+
+    Update .gitlab-ci.yml
+
+[33mcommit 88a65a2c139e70adaf87aedc911845ac06535135[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Fri Aug 21 14:05:20 2020 +0200
+
+    remove pdf
+
+[33mcommit e0cb9b53fc91f9946057947c02c26e59bd482242[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Fri Aug 21 14:03:26 2020 +0200
+
+    rename some notebooks
+
+[33mcommit 80825791a62cede82482b2e84c3a105bbdc7c250[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Fri Aug 21 13:08:22 2020 +0200
+
+    Update .gitlab-ci.yml
+
+[33mcommit 98bc35022938111d7926df12920694e05372dae6[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Fri Aug 21 13:06:07 2020 +0200
+
+    Update .gitlab-ci.yml
+
+[33mcommit 707edec685f190c83637d29b1cc19309686236c9[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Fri Aug 21 12:51:38 2020 +0200
+
+    Add project.toml for Julia packages
+
+[33mcommit 3c53a5442308ef57edac32efab410da1f02ee742[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Fri Aug 21 12:12:39 2020 +0200
+
+    fix headings
+
+[33mcommit 2ba5076f05ad0d5ae38ad52224c3ea08f1e17f47[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Fri Aug 21 11:34:25 2020 +0200
+
+    Update environment.yml
+
+[33mcommit 282ec69202deb8664c1dde71273f3363f164085b[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Fri Aug 21 11:32:01 2020 +0200
+
+    Fix manual
+
+[33mcommit 05b6c22a887c8105cd5e36bedadede79a99459dd[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Fri Aug 21 11:17:03 2020 +0200
+
+    Update 03-markdown.ipynb
+
+[33mcommit df992da1cc72deb2ffc4b6d9c50ece8009748885[m
+Author: Pierre Navaro <pierre.navaro@univ-rennes1.fr>
+Date:   Thu Aug 20 23:19:48 2020 +0200
+
+    fix image issue
+
+[33mcommit 5ae21fd132f624548ad2e18493f96ed38d603f22[m
+Author: Pierre Navaro <pierre.navaro@univ-rennes1.fr>
+Date:   Thu Aug 20 23:05:27 2020 +0200
+
+    Update 08-exemple-julia.ipynb
+
+[33mcommit 77eaf2f8c637e3660e0e4ec47bb9b188ddacb5f5[m
+Author: Pierre Navaro <pierre.navaro@univ-rennes1.fr>
+Date:   Thu Aug 20 23:05:25 2020 +0200
+
+    Update .gitlab-ci.yml
+
+[33mcommit a645dde96a974cacdeab30a19f7cd79a3604cad2[m
+Author: Pierre Navaro <pierre.navaro@univ-rennes1.fr>
+Date:   Thu Aug 20 23:03:12 2020 +0200
+
+    Update .gitlab-ci.yml
+
+[33mcommit a7adca1a83560c42de4976a649e04a90703d3f10[m
+Author: Pierre Navaro <pierre.navaro@univ-rennes1.fr>
+Date:   Thu Aug 20 23:01:47 2020 +0200
+
+    Update 03-markdown.ipynb
+
+[33mcommit cc2becb3639c57d072c4fcf0b6a1f352b5f51a0e[m
+Author: Pierre Navaro <pierre.navaro@univ-rennes1.fr>
+Date:   Thu Aug 20 22:59:20 2020 +0200
+
+    Update nbcourse.yml
+
+[33mcommit 2c06f297304820fedc97c9772e5ac52a4b64ae7d[m
+Author: Pierre Navaro <pierre.navaro@univ-rennes1.fr>
+Date:   Thu Aug 20 22:41:54 2020 +0200
+
+    fix titles again
+
+[33mcommit c0754af86adcf2fb2aeb6d7761e565288161b7e1[m
+Author: Pierre Navaro <pierre.navaro@univ-rennes1.fr>
+Date:   Thu Aug 20 22:22:55 2020 +0200
+
+    Update nbcourse.yml
+
+[33mcommit 498b6b5d424a45681c6f4b6bcfdae3a708361cd7[m
+Author: Pierre Navaro <pierre.navaro@univ-rennes1.fr>
+Date:   Thu Aug 20 22:19:34 2020 +0200
+
+    Update .gitignore
+
+[33mcommit 76e8b364643c49c4fd9ed3fb28829dae858fa07b[m
+Author: Pierre Navaro <pierre.navaro@univ-rennes1.fr>
+Date:   Thu Aug 20 22:18:57 2020 +0200
+
+    add missing titles
+
+[33mcommit 0ead37a8929a45bc0948a81bcd510894a47c5b63[m
+Author: Pierre Navaro <pierre.navaro@univ-rennes1.fr>
+Date:   Thu Aug 20 22:08:55 2020 +0200
+
+    Update 01-introduction.ipynb
+
+[33mcommit 03f51ddf9a765cd2969e077cecc233f4425ecb21[m
+Author: Pierre Navaro <pierre.navaro@univ-rennes1.fr>
+Date:   Thu Aug 20 22:06:20 2020 +0200
+
+    Update 01-introduction.ipynb
+
+[33mcommit f91ea54ff231b48700e5e66ceec91d7238846889[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Thu Aug 20 15:34:57 2020 +0200
+
+    minor changes
+
+[33mcommit 24435b78a0ec35966984b1411e83e5823e7fa38f[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Thu Aug 20 15:11:17 2020 +0200
+
+    Update nbcourse.yml
+
+[33mcommit 2823b1fae98acfd7cd9eea3870310f9fb81c8e87[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Thu Aug 20 15:08:33 2020 +0200
+
+    Update nbcourse.yml
+
+[33mcommit 7ea12ea0d2dc641c195a165e9250f6b07995ce29[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Thu Aug 20 15:05:05 2020 +0200
+
+    Update 04-docker.ipynb
+
+[33mcommit 6df4777c671ee6f6f044cf6301ecc1f0e7a2598a[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Thu Aug 20 15:05:02 2020 +0200
+
+    Update .gitignore
+
+[33mcommit b125283c6bc6b93570a754360d9033b961a96eb5[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Thu Aug 20 14:55:52 2020 +0200
+
+    Update nbcourse.yml
+
+[33mcommit 31d321838f81a2b4506390d680a0897ad53ccbb8[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Thu Aug 20 14:48:37 2020 +0200
+
+    Update 08-exemple-julia.ipynb
+
+[33mcommit c869079a9e25572d07d8498a9aceba650a1b6a23[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Thu Aug 20 14:45:27 2020 +0200
+
+    Update 08-exemple-julia.ipynb
+
+[33mcommit f2b5cfe636a285bf0f9d05d83626940cbfb0775f[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Thu Aug 20 14:45:22 2020 +0200
+
+    Create 11-github-action.ipynb
+
+[33mcommit e54969248e85947c2c8c559401e9a72cb7be7a20[m
+Author: Pierre Navaro <pierre.navaro@univ-rennes1.fr>
+Date:   Thu Aug 20 12:35:39 2020 +0200
+
+    Update .gitlab-ci.yml
+
+[33mcommit b5b8a3808d0bf8c6ebdbe874db57e1eaff4338f5[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Thu Aug 20 12:34:41 2020 +0200
+
+    Update 06-binder.ipynb
+
+[33mcommit 45df14b72519e823c0ac16b9e36ecda0dd4e44bf[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Thu Aug 20 12:34:40 2020 +0200
+
+    Update nbcourse.yml
+
+[33mcommit 5bd11bf4f843d1322fb8f3babf5005b66881be46[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Thu Aug 20 11:31:36 2020 +0200
+
+    Update 04-docker.ipynb
+
+[33mcommit 32340977ccafd2c7689a22ec1cd91ee5c8f8fa87[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Thu Aug 20 11:31:34 2020 +0200
+
+    Update 03-markdown.ipynb
+
+[33mcommit 70d4a9d94b28df08cb14804b4c62261ba4ec1e06[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Wed Aug 19 13:44:23 2020 +0200
+
+    Update 03-markdown.ipynb
+
+[33mcommit f208c0f01f770888b6842205dd080bbae65d44b5[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Tue Aug 18 23:25:19 2020 +0200
+
+    Add markdown notebook
+
+[33mcommit ba6b8eacfd95660b0f72a8a39984401bf72d0132[m
+Author: Pierre Navaro <pierre.navaro@math.cnrs.fr>
+Date:   Tue Aug 18 17:52:51 2020 +0200
+
+    Add new notebooks !
+
+[33mcommit bc3e121a02edfd651a04757eb78b66b255550d5d[m
+Author: Pierre Navaro <navaro@math.cnrs.fr>
+Date:   Fri Aug 14 18:04:15 2020 +0200
+
+    Create 06-exemple-julia.ipynb
+
+[33mcommit aaf3db7bebaa42c6767257970d27164b2e35f00d[m
+Author: Pierre Navaro <navaro@math.cnrs.fr>
+Date:   Fri Aug 14 17:55:32 2020 +0200
+
+    Update 01-introduction.ipynb
+
+[33mcommit 6eb03668332305fe2ea2930f2daf9cadde2398c0[m
+Author: Pierre Navaro <pierre.navaro@univ-rennes1.fr>
+Date:   Sat Jul 11 22:53:16 2020 +0200
+
+    Update 01-introduction.ipynb
+
+[33mcommit 19bd17a2d251d7fd17f9294c7199c567fece066f[m
+Author: Pierre Navaro <pierre.navaro@univ-rennes1.fr>
+Date:   Sat Jul 11 22:53:13 2020 +0200
+
+    Update .gitignore
+
+[33mcommit 57f7c31d4748261c4f00c6fa777c63f7840664a8[m
+Author: Pierre Navaro <pierre.navaro@univ-rennes1.fr>
+Date:   Sat Jul 11 22:19:05 2020 +0200
+
+    Update nbcourse.yml
+
+[33mcommit 641fb88cacd1a1a7f2e6ce9f529a394efdbfe733[m
+Merge: 70cd580 e2e76f8
+Author: Pierre Navaro <pierre.navaro@univ-rennes1.fr>
+Date:   Sat Jul 11 22:10:08 2020 +0200
+
+    Merge branch 'master' of gitlab.math.unistra.fr:navaro/agrocampus
+
+[33mcommit 70cd58074d7dc6a1f2bc957c0b7570156354297e[m
+Author: Pierre Navaro <pierre.navaro@univ-rennes1.fr>
+Date:   Sat Jul 11 22:09:55 2020 +0200
+
+    Update nbcourse.yml
+
+[33mcommit e2e76f854535df3b2ca17e29e8627a04562b368e[m
+Merge: 4652e78 fb00818
+Author: Pierre Navaro <pierre.navaro@univ-rennes1.fr>
+Date:   Sat Jul 11 21:48:40 2020 +0200
+
+    Merge branch 'navaro-master-patch-87512' into 'master'
+    
+    Update .gitlab-ci.yml
+    
+    See merge request navaro/agrocampus!1
+
+[33mcommit fb00818d741b7519df32ef69a9ebc05095a70396[m
+Author: Pierre Navaro <pierre.navaro@univ-rennes1.fr>
+Date:   Sat Jul 11 21:48:11 2020 +0200
+
+    Update .gitlab-ci.yml
+
+[33mcommit 4652e7895ca71b6b2b98d7072fc30d3600162216[m
+Author: Pierre Navaro <pierre.navaro@univ-rennes1.fr>
+Date:   Sat Jul 11 21:42:45 2020 +0200
+
+    add pages and theme
+
+[33mcommit 9e55014c18484c38a6097e4881ca7424a178bb18[m
+Author: Pierre Navaro <pierre.navaro@univ-rennes1.fr>
+Date:   Sat Jul 11 21:41:20 2020 +0200
+
+    Create agrocampus-logo.png
+
+[33mcommit 03cfe844bbbf57076848c3998013cbcaee2233d3[m
+Author: Pierre Navaro <pierre.navaro@univ-rennes1.fr>
+Date:   Sat Jul 11 21:41:05 2020 +0200
+
+    Update .gitignore
+
+[33mcommit d17206fff23fb54e300dbce5472751fc3369d170[m
+Author: Pierre Navaro <pierre.navaro@univ-rennes1.fr>
+Date:   Sat Jul 11 21:35:55 2020 +0200
+
+    Create .gitlab-ci.yml
+
+[33mcommit 596d91435d79d51c89667bd7d09b9c6508277b18[m
+Author: Pierre Navaro <pierre.navaro@univ-rennes1.fr>
+Date:   Sat Jul 11 21:32:59 2020 +0200
+
+    remove unused files
+
+[33mcommit 6cd73f120b9dc6256092fcb83567d506a6700bb4[m
+Author: Pierre Navaro <pierre.navaro@univ-rennes1.fr>
+Date:   Sat Jul 11 21:29:41 2020 +0200
+
+    Initial commit
